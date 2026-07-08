@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Olá! Eu sou Leonardo Costa 👋</h1>
 
 <h3 align="center">
